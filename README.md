@@ -1,4 +1,4 @@
-### **📄 فایل `README.md` برای پروژه تحلیل داده‌های تنیس**  
+### **📄 `README.md`**  
 
 ```markdown
 # 🎾 Tennis Data Analysis  
